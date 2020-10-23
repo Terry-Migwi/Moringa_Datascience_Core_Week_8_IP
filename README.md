@@ -1,4 +1,4 @@
-# Decision Trees and Support Vector Machines
+# Random Forests and Support Vector Machines
 This repository contains a colab notebook with workings on Supervised Learning~ Classifications
 
 ## Title
@@ -19,7 +19,7 @@ From these two models, we obtained feature importances which we used to build th
 
      
  ## Installation Requirements
-1. Clone the repo by running: git clone https://github.com/Terry-Migwi/Moringa_Datascience_Core_Week_8_IP.git
+1. Clone the repo by running: git clone https://github.com/Terry-Migwi/Random-Forest-and-SVM-Classifiers.git
 
 2. Navigate to the project directory: cd pandas
 
