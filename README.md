@@ -1,4 +1,4 @@
-# Moringa_Datascience_Core_Week_8_IP
+# Decision Trees and Support Vector Machines
 This repository contains a colab notebook with workings on Supervised Learning~ Classifications
 
 ## Title
@@ -11,7 +11,7 @@ Terry Migwi
 This study is attributed to a clinical camp conducted by Nairobi Hospital to test for hypothyroidism. The data collected focussed on thyroid patients.
 The aim of the study is to determine whether or not the patient's symptoms indicate that the patient has hypothyroidism using the healthcare datasets provided by building the following models:
 
-1.   Decision Trees - 
+1.   Decision Trees 
 2.   Support Vector Machine (SVM)
 
 To achieve the goal above, the study made use of the Random forests and the Ada boosted trees while ensuring the models have been optimized to obtain the best results.
